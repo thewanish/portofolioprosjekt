@@ -1,0 +1,1 @@
+den ville ikke oppdatere jo mindre jeg tok "npm run dev" og end navn tils
